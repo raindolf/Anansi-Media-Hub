@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "AnansiMediaHub1", "AnansiMediaHub1\AnansiMediaHub1.vbproj", "{179FE2BA-051B-499D-850E-D8E1CEA5E4CD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E57D839A-A42E-4C49-B3D0-8AD3337754B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{179FE2BA-051B-499D-850E-D8E1CEA5E4CD}.Debug|x86.ActiveCfg = Debug|x86
+		{179FE2BA-051B-499D-850E-D8E1CEA5E4CD}.Debug|x86.Build.0 = Debug|x86
+		{179FE2BA-051B-499D-850E-D8E1CEA5E4CD}.Release|x86.ActiveCfg = Release|x86
+		{179FE2BA-051B-499D-850E-D8E1CEA5E4CD}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

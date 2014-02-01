@@ -1,0 +1,91 @@
+c:\users\aguero\documents\visual studio 2010\Projects\AnansiMediaHub1\AnansiMediaHub1\bin\Debug\AnansiMediaHub1.exe
+c:\users\aguero\documents\visual studio 2010\Projects\AnansiMediaHub1\AnansiMediaHub1\bin\Debug\AnansiMediaHub1.pdb
+c:\users\aguero\documents\visual studio 2010\Projects\AnansiMediaHub1\AnansiMediaHub1\bin\Debug\AnansiMediaHub1.xml
+c:\users\aguero\documents\visual studio 2010\Projects\AnansiMediaHub1\AnansiMediaHub1\bin\Debug\Interop.WMPLib.dll
+c:\users\aguero\documents\visual studio 2010\Projects\AnansiMediaHub1\AnansiMediaHub1\bin\Debug\AxInterop.WMPLib.dll
+c:\users\aguero\documents\visual studio 2010\Projects\AnansiMediaHub1\AnansiMediaHub1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\aguero\documents\visual studio 2010\Projects\AnansiMediaHub1\AnansiMediaHub1\obj\x86\Debug\Interop.WMPLib.dll
+c:\users\aguero\documents\visual studio 2010\Projects\AnansiMediaHub1\AnansiMediaHub1\obj\x86\Debug\AxInterop.WMPLib.dll
+c:\users\aguero\documents\visual studio 2010\Projects\AnansiMediaHub1\AnansiMediaHub1\obj\x86\Debug\AnansiMediaHub1.vbproj.ResolveComReference.cache
+c:\users\aguero\documents\visual studio 2010\Projects\AnansiMediaHub1\AnansiMediaHub1\obj\x86\Debug\AnansiMediaHub1.Form1.resources
+c:\users\aguero\documents\visual studio 2010\Projects\AnansiMediaHub1\AnansiMediaHub1\obj\x86\Debug\AnansiMediaHub1.Resources.resources
+c:\users\aguero\documents\visual studio 2010\Projects\AnansiMediaHub1\AnansiMediaHub1\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\aguero\documents\visual studio 2010\Projects\AnansiMediaHub1\AnansiMediaHub1\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\aguero\documents\visual studio 2010\Projects\AnansiMediaHub1\AnansiMediaHub1\obj\x86\Debug\AnansiMediaHub1.exe
+c:\users\aguero\documents\visual studio 2010\Projects\AnansiMediaHub1\AnansiMediaHub1\obj\x86\Debug\AnansiMediaHub1.xml
+c:\users\aguero\documents\visual studio 2010\Projects\AnansiMediaHub1\AnansiMediaHub1\obj\x86\Debug\AnansiMediaHub1.pdb
+c:\users\aguero\documents\visual studio 2010\Projects\AnansiMediaHub1\AnansiMediaHub1\obj\x86\Debug\AnansiMediaHub1.SplashScreen1.resources
+C:\Users\Aguero\Documents\Visual Studio 2010\Projects\AnansiMediaHub1\AnansiMediaHub1\obj\x86\Debug\AnansiMediaHub1.Form3.resources
+C:\Users\Aguero\Documents\Visual Studio 2010\Projects\AnansiMediaHub1\AnansiMediaHub1\obj\x86\Debug\AnansiMediaHub1.Form4.resources
+C:\Users\Aguero\Documents\Visual Studio 2010\Projects\AnansiMediaHub1\AnansiMediaHub1\bin\Debug\Interop.AXVLC.dll
+C:\Users\Aguero\Documents\Visual Studio 2010\Projects\AnansiMediaHub1\AnansiMediaHub1\bin\Debug\AxInterop.AXVLC.dll
+C:\Users\Aguero\Documents\Visual Studio 2010\Projects\AnansiMediaHub1\AnansiMediaHub1\obj\x86\Debug\Interop.AXVLC.dll
+C:\Users\Aguero\Documents\Visual Studio 2010\Projects\AnansiMediaHub1\AnansiMediaHub1\obj\x86\Debug\AxInterop.AXVLC.dll
+C:\Users\Aguero\Documents\Visual Studio 2010\Projects\AnansiMediaHub1\AnansiMediaHub1\obj\x86\Debug\AnansiMediaHub1.peacefm.resources
+C:\Users\Aguero\Documents\Visual Studio 2010\Projects\AnansiMediaHub1\AnansiMediaHub1\obj\x86\Debug\AnansiMediaHub1.frmAbout.resources
+C:\Users\Raindolf Owusu\Desktop\Anansi MediaHub\AnansiMediaHub1\obj\x86\Debug\Interop.AXVLC.dll
+C:\Users\Raindolf Owusu\Desktop\Anansi MediaHub\AnansiMediaHub1\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Raindolf Owusu\Desktop\Anansi MediaHub\AnansiMediaHub1\obj\x86\Debug\AxInterop.AXVLC.dll
+C:\Users\Raindolf Owusu\Desktop\Anansi MediaHub\AnansiMediaHub1\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Raindolf Owusu\Desktop\Anansi MediaHub\AnansiMediaHub1\obj\x86\Debug\AnansiMediaHub1.vbproj.ResolveComReference.cache
+C:\Users\Raindolf Owusu\Desktop\Anansi MediaHub\AnansiMediaHub1\bin\Debug\Interop.AXVLC.dll
+C:\Users\Raindolf Owusu\Desktop\Anansi MediaHub\AnansiMediaHub1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Raindolf Owusu\Desktop\Anansi MediaHub\AnansiMediaHub1\bin\Debug\AxInterop.AXVLC.dll
+C:\Users\Raindolf Owusu\Desktop\Anansi MediaHub\AnansiMediaHub1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Raindolf Owusu\Desktop\Anansi MediaHub\AnansiMediaHub1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Raindolf Owusu\Desktop\Anansi MediaHub\AnansiMediaHub1\obj\x86\Debug\AnansiMediaHub1.Form1.resources
+C:\Users\Raindolf Owusu\Desktop\Anansi MediaHub\AnansiMediaHub1\obj\x86\Debug\AnansiMediaHub1.Form3.resources
+C:\Users\Raindolf Owusu\Desktop\Anansi MediaHub\AnansiMediaHub1\obj\x86\Debug\AnansiMediaHub1.Form4.resources
+C:\Users\Raindolf Owusu\Desktop\Anansi MediaHub\AnansiMediaHub1\obj\x86\Debug\AnansiMediaHub1.frmAbout.resources
+C:\Users\Raindolf Owusu\Desktop\Anansi MediaHub\AnansiMediaHub1\obj\x86\Debug\AnansiMediaHub1.Resources.resources
+C:\Users\Raindolf Owusu\Desktop\Anansi MediaHub\AnansiMediaHub1\obj\x86\Debug\AnansiMediaHub1.peacefm.resources
+C:\Users\Raindolf Owusu\Desktop\Anansi MediaHub\AnansiMediaHub1\obj\x86\Debug\AnansiMediaHub1.SplashScreen1.resources
+C:\Users\Raindolf Owusu\Desktop\Anansi MediaHub\AnansiMediaHub1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Raindolf Owusu\Desktop\Anansi MediaHub\AnansiMediaHub1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Raindolf Owusu\Desktop\Anansi MediaHub\AnansiMediaHub1\bin\Debug\AnansiMediaHub1.exe.manifest
+C:\Users\Raindolf Owusu\Desktop\Anansi MediaHub\AnansiMediaHub1\bin\Debug\AnansiMediaHub1.application
+C:\Users\Raindolf Owusu\Desktop\Anansi MediaHub\AnansiMediaHub1\bin\Debug\AnansiMediaHub1.exe
+C:\Users\Raindolf Owusu\Desktop\Anansi MediaHub\AnansiMediaHub1\bin\Debug\AnansiMediaHub1.pdb
+C:\Users\Raindolf Owusu\Desktop\Anansi MediaHub\AnansiMediaHub1\bin\Debug\AnansiMediaHub1.xml
+C:\Users\Raindolf Owusu\Desktop\Anansi MediaHub\AnansiMediaHub1\obj\x86\Debug\AnansiMediaHub1.TrustInfo.xml
+C:\Users\Raindolf Owusu\Desktop\Anansi MediaHub\AnansiMediaHub1\obj\x86\Debug\AnansiMediaHub1.exe.manifest
+C:\Users\Raindolf Owusu\Desktop\Anansi MediaHub\AnansiMediaHub1\obj\x86\Debug\AnansiMediaHub1.application
+C:\Users\Raindolf Owusu\Desktop\Anansi MediaHub\AnansiMediaHub1\obj\x86\Debug\AnansiMediaHub1.exe
+C:\Users\Raindolf Owusu\Desktop\Anansi MediaHub\AnansiMediaHub1\obj\x86\Debug\AnansiMediaHub1.xml
+C:\Users\Raindolf Owusu\Desktop\Anansi MediaHub\AnansiMediaHub1\obj\x86\Debug\AnansiMediaHub1.pdb
+C:\Users\Raindolf Owusu\Desktop\Guido Sohne Fellowship By Raindolf Owusu\Anansi Media Hub -  Source Code\AnansiMediaHub1\obj\x86\Debug\Interop.AXVLC.dll
+C:\Users\Raindolf Owusu\Desktop\Guido Sohne Fellowship By Raindolf Owusu\Anansi Media Hub -  Source Code\AnansiMediaHub1\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Raindolf Owusu\Desktop\Guido Sohne Fellowship By Raindolf Owusu\Anansi Media Hub -  Source Code\AnansiMediaHub1\obj\x86\Debug\AxInterop.AXVLC.dll
+C:\Users\Raindolf Owusu\Desktop\Guido Sohne Fellowship By Raindolf Owusu\Anansi Media Hub -  Source Code\AnansiMediaHub1\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Raindolf Owusu\Desktop\Guido Sohne Fellowship By Raindolf Owusu\Anansi Media Hub -  Source Code\AnansiMediaHub1\obj\x86\Debug\AnansiMediaHub1.vbproj.ResolveComReference.cache
+C:\Users\Raindolf Owusu\Desktop\Guido Sohne Fellowship By Raindolf Owusu\Anansi Media Hub -  Source Code\AnansiMediaHub1\obj\x86\Debug\AnansiMediaHub1.exe
+C:\Users\Raindolf Owusu\Desktop\Guido Sohne Fellowship By Raindolf Owusu\Anansi Media Hub -  Source Code\AnansiMediaHub1\obj\x86\Debug\AnansiMediaHub1.xml
+C:\Users\Raindolf Owusu\Desktop\Guido Sohne Fellowship By Raindolf Owusu\Anansi Media Hub -  Source Code\AnansiMediaHub1\obj\x86\Debug\AnansiMediaHub1.pdb
+C:\Users\Raindolf Owusu\Desktop\Anansi Media Hub -  Source Code\AnansiMediaHub1\obj\x86\Debug\Interop.AXVLC.dll
+C:\Users\Raindolf Owusu\Desktop\Anansi Media Hub -  Source Code\AnansiMediaHub1\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Raindolf Owusu\Desktop\Anansi Media Hub -  Source Code\AnansiMediaHub1\obj\x86\Debug\AxInterop.AXVLC.dll
+C:\Users\Raindolf Owusu\Desktop\Anansi Media Hub -  Source Code\AnansiMediaHub1\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Raindolf Owusu\Desktop\Anansi Media Hub -  Source Code\AnansiMediaHub1\obj\x86\Debug\AnansiMediaHub1.vbproj.ResolveComReference.cache
+C:\Users\Raindolf Owusu\Desktop\Anansi Media Hub -  Source Code\AnansiMediaHub1\obj\x86\Debug\AnansiMediaHub1.exe
+C:\Users\Raindolf Owusu\Desktop\Anansi Media Hub -  Source Code\AnansiMediaHub1\obj\x86\Debug\AnansiMediaHub1.xml
+C:\Users\Raindolf Owusu\Desktop\Anansi Media Hub -  Source Code\AnansiMediaHub1\obj\x86\Debug\AnansiMediaHub1.pdb
+C:\Users\Raindolf Owusu\Desktop\Anansi Media Hub -  Source Code\AnansiMediaHub1\bin\Debug\AnansiMediaHub1.exe.manifest
+C:\Users\Raindolf Owusu\Desktop\Anansi Media Hub -  Source Code\AnansiMediaHub1\bin\Debug\AnansiMediaHub1.application
+C:\Users\Raindolf Owusu\Desktop\Anansi Media Hub -  Source Code\AnansiMediaHub1\bin\Debug\AnansiMediaHub1.exe
+C:\Users\Raindolf Owusu\Desktop\Anansi Media Hub -  Source Code\AnansiMediaHub1\bin\Debug\AnansiMediaHub1.pdb
+C:\Users\Raindolf Owusu\Desktop\Anansi Media Hub -  Source Code\AnansiMediaHub1\bin\Debug\AnansiMediaHub1.xml
+C:\Users\Raindolf Owusu\Desktop\Anansi Media Hub -  Source Code\AnansiMediaHub1\bin\Debug\Interop.AXVLC.dll
+C:\Users\Raindolf Owusu\Desktop\Anansi Media Hub -  Source Code\AnansiMediaHub1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Raindolf Owusu\Desktop\Anansi Media Hub -  Source Code\AnansiMediaHub1\bin\Debug\AxInterop.AXVLC.dll
+C:\Users\Raindolf Owusu\Desktop\Anansi Media Hub -  Source Code\AnansiMediaHub1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Raindolf Owusu\Desktop\Anansi Media Hub -  Source Code\AnansiMediaHub1\obj\x86\Debug\AnansiMediaHub1.Form1.resources
+C:\Users\Raindolf Owusu\Desktop\Anansi Media Hub -  Source Code\AnansiMediaHub1\obj\x86\Debug\AnansiMediaHub1.Form3.resources
+C:\Users\Raindolf Owusu\Desktop\Anansi Media Hub -  Source Code\AnansiMediaHub1\obj\x86\Debug\AnansiMediaHub1.Form4.resources
+C:\Users\Raindolf Owusu\Desktop\Anansi Media Hub -  Source Code\AnansiMediaHub1\obj\x86\Debug\AnansiMediaHub1.frmAbout.resources
+C:\Users\Raindolf Owusu\Desktop\Anansi Media Hub -  Source Code\AnansiMediaHub1\obj\x86\Debug\AnansiMediaHub1.Resources.resources
+C:\Users\Raindolf Owusu\Desktop\Anansi Media Hub -  Source Code\AnansiMediaHub1\obj\x86\Debug\AnansiMediaHub1.peacefm.resources
+C:\Users\Raindolf Owusu\Desktop\Anansi Media Hub -  Source Code\AnansiMediaHub1\obj\x86\Debug\AnansiMediaHub1.SplashScreen1.resources
+C:\Users\Raindolf Owusu\Desktop\Anansi Media Hub -  Source Code\AnansiMediaHub1\obj\x86\Debug\AnansiMediaHub1.vbproj.GenerateResource.Cache
+C:\Users\Raindolf Owusu\Desktop\Anansi Media Hub -  Source Code\AnansiMediaHub1\obj\x86\Debug\AnansiMediaHub1.TrustInfo.xml
+C:\Users\Raindolf Owusu\Desktop\Anansi Media Hub -  Source Code\AnansiMediaHub1\obj\x86\Debug\AnansiMediaHub1.exe.manifest
+C:\Users\Raindolf Owusu\Desktop\Anansi Media Hub -  Source Code\AnansiMediaHub1\obj\x86\Debug\AnansiMediaHub1.application
